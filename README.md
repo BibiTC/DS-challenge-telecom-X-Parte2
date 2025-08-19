@@ -65,3 +65,7 @@ Construir y evaluar modelos predictivos para:
 
 ## 👥 Autora
 Proyecto desarrollado por **Bibiana Trujillo Cedeño**, participante del programa **ONE + Alura LATAM**, Especialización en Ciencia de Datos.  
+
+---
+
+Informe: https://github.com/BibiTC/DS-challenge-telecom-X-Parte2.git
