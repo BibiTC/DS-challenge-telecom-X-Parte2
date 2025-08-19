@@ -25,13 +25,10 @@ Construir y evaluar modelos predictivos para:
 ---
 
 ## 📁 Estructura del proyecto
-- `TelecomX_Modelos.ipynb`: Notebook con el modelado predictivo, métricas y visualizaciones.  
-- `Informe_Final_Modelos.md`: Informe final con resultados de la Parte 2.  
-- `imagenes_word`: Carpeta con imágenes utilizadas en el informe (importante descargar junto al `.md`).  
+- `TelecomX_LATAM - Parte2.ipynb`: Notebook con el modelado predictivo, métricas y visualizaciones.  
+- `Informe Telecom X Parte 2.md`: Informe final con resultados de la Parte 2.  
 - `README.md`: Archivo de referencia del proyecto.  
-- `TelecomX_diccionario.md`: Diccionario de variables del dataset.  
-- `TelecomX_Data.json`: Archivo de datos (también accesible desde la URL del reto).  
-- `Analisis_graficas.word`: Análisis detallado de las gráficas exploratorias (Parte 1).  
+- `datos_tratados_TelecomX_Parte1.csv`: Archivo de datos (también accesible desde la URL del reto).  
 
 ---
 
